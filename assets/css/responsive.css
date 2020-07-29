@@ -111,9 +111,10 @@
   .logo-big{
     width: 50%;
     padding-bottom: 15px;
+    padding-top: 20px;
   }
   .section-padding {
-    padding: 50px 0;
+    padding: 40px 0;
   }
   .section-title {
     font-size: 22px;
@@ -142,7 +143,7 @@
     font-size: 18px;
   }
   #hero-area .contents .btn {
-    margin: 5px 10px 10px 0px;
+    margin: 30px 10px 10px 0px;
   }
   .text-wrapper {
     padding: 60px 15px;
