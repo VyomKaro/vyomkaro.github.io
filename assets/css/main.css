@@ -385,7 +385,7 @@ hr {
   -moz-transition: all 0.3s ease-in-out 0s;
   -webkit-transition: all 0.3s ease-in-out 0s;
   -o-transition: all 0.3s ease-in-out 0s;
-  min-height: 577px;
+  min-height: 660px;
 }
 
 .services-item .icon i {
@@ -1931,4 +1931,9 @@ textarea {
 .astro-pic{
    width:150px;
    border-radius: 2%;
+}
+
+.astro-button{
+    bottom: 35px;
+    position: absolute;
 }
