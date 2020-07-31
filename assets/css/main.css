@@ -671,6 +671,10 @@ hr {
   padding: 170px 0px 50px;
 }
 
+#hero-area .contents .img-fluid{
+    width: 46%;
+}
+
 #hero-area .contents .head-title {
   color: #585b60;
   text-transform: uppercase;

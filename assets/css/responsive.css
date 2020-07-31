@@ -2,7 +2,7 @@
 
 .logo-big{
     width: 20%;
-    padding-bottom: 15px;
+    padding-bottom: 0px;
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -20,6 +20,9 @@
   }
   .counter-box {
     margin-bottom: 30px;
+  }
+  .img-fluid-size{
+    max-width: 500px!important;
   }
 }
 
